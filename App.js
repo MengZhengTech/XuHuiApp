@@ -25,7 +25,7 @@ export default class App extends Component<{}> {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          Welcome to React Native!
+          Welcome to React Native!11
           <Ionicons name='ios-search' size={20}/>
         </Text>
         <Text style={styles.instructions}>
