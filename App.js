@@ -30,6 +30,7 @@ export default class App extends Component<{}> {
         </Text>
         <Text style={styles.instructions}>
           To get started, edit App.js
+          commit test
         </Text>
         <Text style={styles.instructions}>
           {instructions}
