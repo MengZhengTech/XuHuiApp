@@ -14,7 +14,11 @@
     "react-native-swiper": "^1.5.13",
     "react-native-vector-icons": "^4.4.2",
     "react-navigation": "^1.0.0-beta.17",
-    "react-timer-mixin": "^0.13.3"
+    "react-redux": "^5.0.6",
+    "react-router": "^4.2.0",
+    "react-timer-mixin": "^0.13.3",
+    "redux": "^3.7.2",
+    "redux-immutablejs": "^0.0.8"
   },
   "devDependencies": {
     "babel-jest": "21.2.0",
